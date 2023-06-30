@@ -1,0 +1,40 @@
+body
+{
+    background-color: red;
+}
+#name
+{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color: yellow;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 20px;
+}
+h4
+{
+    font-style: italic;
+    text-align: center;
+    background-color: yellow;
+}
+h3
+{
+    text-align:center;
+}
+.info
+{
+    background-color: yellow;
+}
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-radius: 20px;
+    background-color: yellow;
+}
